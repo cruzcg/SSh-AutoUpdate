@@ -1,4 +1,6 @@
 # Secure SSH AutoUpdate
+![SSh AuditUpdate](https://github.com/cruzcg/SSh-AutoUpdate/assets/64936909/72f389a4-b128-4e96-a26b-bb44feb4ac7c)
+
 
 Secure SSH AutoUpdate is a Python application designed to securely update remote machines using SSH. It provides a user-friendly GUI for managing IP addresses, SSH credentials, and initiating the update process.
 
